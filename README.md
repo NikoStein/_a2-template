@@ -1,7 +1,7 @@
-# Assignment 1
+# Assignment 2
 Practical Data Science (PDS) 2019/2020, University of Wuerzburg
 
-__Deadline 05.11.2019, 10am__ 
+__Deadline 12.11.2019, 10am__ 
 
 # Instructions (Google Colab)
 __Note__: Make sure that you are logged in with your Google Account; Link Google Colab with your Github account to [access private repositories](https://colab.research.google.com/github/).
